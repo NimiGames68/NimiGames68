@@ -8,6 +8,6 @@ He/Him 🔵
 
 At this moment, I'm working on my personal website 🫡
 
-I just know HTML, CSS and JavaScript, and a little little bit of python. You can't call me a developer yet🙏
+I just know HTML, CSS and JavaScript. You can't call me a developer yet🙏
 
 You can find my social media and contact in [here](https://nimigames68.github.io/links) 
