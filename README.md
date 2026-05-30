@@ -1,4 +1,4 @@
-## Hi! I'm NimiGames68👋
+## Hi! I'm NimiGames6
 
 I'm from Madeira Island, Portugal 🏝️🇵🇹
 
@@ -6,6 +6,4 @@ I like Portuguese music and tech related stuff 💻🎵
 
 He/Him 🔵
 
-I just know HTML, CSS and JavaScript. You can't call me a developer yet🙏
-
-You can find my social media and contact in [here](https://nimigames68.github.io/links) 
+Contact me at [Discord](https://discordapp.com/users/842801927904559128) or [Telegram](https://t.me/nimig68
