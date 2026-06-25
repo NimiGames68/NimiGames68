@@ -1,4 +1,4 @@
-## Hi! I'm NimiGames6
+## Hi! I'm NimiGames68
 
 I'm from Madeira Island, Portugal 🏝️🇵🇹
 
