@@ -8,4 +8,4 @@ He/Him
 
 Contact me at [Discord](https://discordapp.com/users/842801927904559128) or [Telegram](https://t.me/nimig68)
 
-(also check out my [last.fm]( profile!)
+(also check out my [last.fm](https://www.last.fm/user/Nimi_Games68) profile!)
