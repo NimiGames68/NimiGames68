@@ -13,4 +13,4 @@ Contact me at [Discord](https://discordapp.com/users/842801927904559128) or [Tel
 
 ### What am i doing
 
-[![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=nimi_games68&count=6&width=450&avatar=0&stats=block&bg_color=0d1117&artist_color=9198a1&meta_color=70767f&loved_color=d98c8c)](https://www.last.fm/user/nimi_games68)  [![Discord Presence](https://lanyard.cnrad.dev/api/842801927904559128?showDisplayName=true&hideDecoration=true&bg=0D1117&borderRadius=10)](https://discord.com/users/842801927904559128)
+[![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=nimi_games68&count=6&width=440&avatar=0&stats=block&bg_color=0d1117&artist_color=9198a1&meta_color=70767f&loved_color=d98c8c)](https://www.last.fm/user/nimi_games68)  [![Discord Presence](https://lanyard.cnrad.dev/api/842801927904559128?showDisplayName=true&hideDecoration=true&bg=0D1117&borderRadius=10)](https://discord.com/users/842801927904559128)
